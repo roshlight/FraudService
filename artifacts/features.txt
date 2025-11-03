@@ -1,0 +1,6 @@
+amount
+gender
+post_code
+population_city
+distance
+jobs_freq
